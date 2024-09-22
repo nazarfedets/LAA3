@@ -1,0 +1,6 @@
+interface Workabl {
+    void performDuties();
+
+
+
+}
